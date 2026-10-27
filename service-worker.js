@@ -1,4 +1,4 @@
-const CACHE = 'reinaerde-kerst-v9';
+const CACHE = 'reinaerde-kerst-v10';
 const ASSETS = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png', './favicon.png'];
 self.addEventListener('install', event => {
   self.skipWaiting();
